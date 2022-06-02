@@ -1,6 +1,6 @@
 # 한림대학교 소프트웨어융합대학
 ---
-<img src=khj.png height=150 widht=150>
+<img src=khj.png height=150 widht=150>   
 이름   
 **권혁진**   
 생년월일   

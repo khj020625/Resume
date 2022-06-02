@@ -1,20 +1,16 @@
 # 한림대학교 소프트웨어융합대학
 ---
 <img src=khj.png height=150 widht=150>
-이름
-
+이름   
 **권혁진**
 
-생년월일
-
+생년월일   
 **2002.06.25**
 
-소속
-
+소속   
 **한림대학교 정보과학대학 소프트웨어융합학부 스마트IOT 전공 // 빅데이터 복수 전공**
 
-email
-
+email   
 **khj020625@naver.com**
 
 github address : [khj020625][github]
